@@ -13,7 +13,7 @@ const RegisterScreen: React.FC = () => {
 
   const handleRegister = async () => {
     try {
-      const response = await fetch('http://52.41.36.82:5000/api/users', {
+      const response = await fetch('https://chambalancer-movil-backend.onrender.com/api/users/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
