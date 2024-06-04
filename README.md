@@ -44,6 +44,8 @@ This is one way to run your app — you can also run it directly from within And
 ## Nota:
 
 Este proyecto utiliza Render para la base de datos, así que cuando recién lo abra va a tardar un poco en reaccionar el login, de 10 a 50 segundos. Favor de presionar iniciar sesión una vez y esperar a que el servidor responda antes de seguir navegando por la aplicación.
+![image](https://github.com/FabianVaz/Chambalancer-movil/assets/99071781/7d363d8f-15ad-4dd2-b53a-44cef3866475)
+
 Hasta ahora hay dos perfiles dados de alta en la base de datos para el login, están fvazquez@gmail.com con contraseña 12345 o piglesias@gmail.com con contraseña 12345, en caso de requerirse se puede registrar otro usuario.
 
 Repositorio del backend: https://github.com/FabianVaz/Chambalancer-movil-backend
